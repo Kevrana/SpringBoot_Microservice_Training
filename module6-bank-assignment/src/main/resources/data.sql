@@ -1,0 +1,10 @@
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (1, 'Kevin Smith', 33, '57 Main Ave, Columbus, OH', 'savings');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (2, 'Michael Scott', 38, '101 Truman St, San Francisco, CA', 'checking');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (3, 'Larry King', 78, '122 Bleeker Road, Hoboken, NJ', 'savings');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (4, 'Joe Miller', 40, '45 Wayne Drive, Queens, NY', 'checking');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (5, 'Harry Potter', 18, '290 Washington Ave, Portland, OR', 'savings');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (6, 'Ronald Wesley', 19, '10 Pringle Drive, Boston, MA', 'savings');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (7, 'Hermione Granger', 18, '24 Wood Ave, Chicago, IL', 'checking');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (8, 'James Kirk', 27, '109 Hills Drive, Los Angeles, CA', 'checking');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (9, 'Chris Pike', 45, '98 Hope Ave, Cincinnati, OH', 'checking');
+INSERT INTO customers(id, name, age, address, accounttype) VALUES (10, 'Jane Doe', 41, '99 Prime Drive, Los Angeles, CA', 'savings');
